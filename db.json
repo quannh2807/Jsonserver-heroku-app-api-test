@@ -1,16 +1,40 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+    "news": [
+        {
+            "id": 1,
+            "title": "Thông báo v/v đăng ký học lại ngành công nghệ thông tin tại black 2 kỳ Fall 2020",
+            "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum in quibusdam provident tempora, inventore facere corporis commodi illo maxime nobis architecto, nam, repudiandae blanditiis minus quo? Quo ex sed unde labore, obcaecati et maxime ipsum dolores laborum, sint amet deleniti quibusdam nobis! Sint, tempora eligendi laudantium alias nihil explicabo totam modi debitis provident iusto aliquid, repellat atque? Sint ea possimus commodi ducimus soluta sunt cum quod doloribus quam distinctio? Doloribus ipsum voluptate quasi, fugit tempore consequatur. Rem ex obcaecati, doloremque reprehenderit neque dolor, nisi dignissimos a cupiditate alias facilis distinctio laborum officia minima ratione corrupti ea. Ipsa debitis iste totam dolorem adipisci perferendis, animi inventore nobis tempore in ipsum aspernatur eos omnis! Obcaecati enim architecto facilis sed explicabo fuga numquam voluptates eligendi quia et tempora adipisci veritatis harum, praesentium qui sint eaque perferendis placeat earum maxime laudantium porro illo nostrum? Illum molestias earum eligendi id illo eveniet impedit? Exercitationem delectus odio sunt facilis totam ratione, minus sequi animi aspernatur illo accusamus culpa, ullam, voluptatem modi fugit excepturi harum molestiae eveniet. Aliquid mollitia reiciendis architecto eaque corporis veritatis, quia excepturi quisquam repellendus ex, inventore amet, odit impedit earum consequuntur culpa. Perspiciatis repudiandae consequatur ex perferendis placeat laborum necessitatibus quo excepturi iusto.",
+            "created_at": "17:32:15 - 11/11/2020",
+            "created_by": "hungnht",
+            "updated_at": "09:16:48 ngày 07/12/2020",
+            "updated_by": "hungnht"
+        },
+        {
+            "id": 2,
+            "title": "Thông báo v/v đăng ký học lại ngành công nghệ thông tin tại black 2 kỳ Fall 2020",
+            "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum in quibusdam provident tempora, inventore facere corporis commodi illo maxime nobis architecto, nam, repudiandae blanditiis minus quo? Quo ex sed unde labore, obcaecati et maxime ipsum dolores laborum, sint amet deleniti quibusdam nobis! Sint, tempora eligendi laudantium alias nihil explicabo totam modi debitis provident iusto aliquid, repellat atque? Sint ea possimus commodi ducimus soluta sunt cum quod doloribus quam distinctio? Doloribus ipsum voluptate quasi, fugit tempore consequatur. Rem ex obcaecati, doloremque reprehenderit neque dolor, nisi dignissimos a cupiditate alias facilis distinctio laborum officia minima ratione corrupti ea. Ipsa debitis iste totam dolorem adipisci perferendis, animi inventore nobis tempore in ipsum aspernatur eos omnis! Obcaecati enim architecto facilis sed explicabo fuga numquam voluptates eligendi quia et tempora adipisci veritatis harum, praesentium qui sint eaque perferendis placeat earum maxime laudantium porro illo nostrum? Illum molestias earum eligendi id illo eveniet impedit? Exercitationem delectus odio sunt facilis totam ratione, minus sequi animi aspernatur illo accusamus culpa, ullam, voluptatem modi fugit excepturi harum molestiae eveniet. Aliquid mollitia reiciendis architecto eaque corporis veritatis, quia excepturi quisquam repellendus ex, inventore amet, odit impedit earum consequuntur culpa. Perspiciatis repudiandae consequatur ex perferendis placeat laborum necessitatibus quo excepturi iusto.",
+            "created_at": "17:32:15 - 11/11/2020",
+            "created_by": "hungnht",
+            "updated_at": "09:16:48 ngày 07/12/2020",
+            "updated_by": "hungnht"
+        },
+        {
+            "id": 3,
+            "title": "Thông báo v/v đăng ký học lại ngành công nghệ thông tin tại black 2 kỳ Fall 2020",
+            "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum in quibusdam provident tempora, inventore facere corporis commodi illo maxime nobis architecto, nam, repudiandae blanditiis minus quo? Quo ex sed unde labore, obcaecati et maxime ipsum dolores laborum, sint amet deleniti quibusdam nobis! Sint, tempora eligendi laudantium alias nihil explicabo totam modi debitis provident iusto aliquid, repellat atque? Sint ea possimus commodi ducimus soluta sunt cum quod doloribus quam distinctio? Doloribus ipsum voluptate quasi, fugit tempore consequatur. Rem ex obcaecati, doloremque reprehenderit neque dolor, nisi dignissimos a cupiditate alias facilis distinctio laborum officia minima ratione corrupti ea. Ipsa debitis iste totam dolorem adipisci perferendis, animi inventore nobis tempore in ipsum aspernatur eos omnis! Obcaecati enim architecto facilis sed explicabo fuga numquam voluptates eligendi quia et tempora adipisci veritatis harum, praesentium qui sint eaque perferendis placeat earum maxime laudantium porro illo nostrum? Illum molestias earum eligendi id illo eveniet impedit? Exercitationem delectus odio sunt facilis totam ratione, minus sequi animi aspernatur illo accusamus culpa, ullam, voluptatem modi fugit excepturi harum molestiae eveniet. Aliquid mollitia reiciendis architecto eaque corporis veritatis, quia excepturi quisquam repellendus ex, inventore amet, odit impedit earum consequuntur culpa. Perspiciatis repudiandae consequatur ex perferendis placeat laborum necessitatibus quo excepturi iusto.",
+            "created_at": "17:32:15 - 11/11/2020",
+            "created_by": "hungnht",
+            "updated_at": "09:16:48 ngày 07/12/2020",
+            "updated_by": "hungnht"
+        },
+        {
+            "id": 4,
+            "title": "Thông báo v/v đăng ký học lại ngành công nghệ thông tin tại black 2 kỳ Fall 2020",
+            "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum in quibusdam provident tempora, inventore facere corporis commodi illo maxime nobis architecto, nam, repudiandae blanditiis minus quo? Quo ex sed unde labore, obcaecati et maxime ipsum dolores laborum, sint amet deleniti quibusdam nobis! Sint, tempora eligendi laudantium alias nihil explicabo totam modi debitis provident iusto aliquid, repellat atque? Sint ea possimus commodi ducimus soluta sunt cum quod doloribus quam distinctio? Doloribus ipsum voluptate quasi, fugit tempore consequatur. Rem ex obcaecati, doloremque reprehenderit neque dolor, nisi dignissimos a cupiditate alias facilis distinctio laborum officia minima ratione corrupti ea. Ipsa debitis iste totam dolorem adipisci perferendis, animi inventore nobis tempore in ipsum aspernatur eos omnis! Obcaecati enim architecto facilis sed explicabo fuga numquam voluptates eligendi quia et tempora adipisci veritatis harum, praesentium qui sint eaque perferendis placeat earum maxime laudantium porro illo nostrum? Illum molestias earum eligendi id illo eveniet impedit? Exercitationem delectus odio sunt facilis totam ratione, minus sequi animi aspernatur illo accusamus culpa, ullam, voluptatem modi fugit excepturi harum molestiae eveniet. Aliquid mollitia reiciendis architecto eaque corporis veritatis, quia excepturi quisquam repellendus ex, inventore amet, odit impedit earum consequuntur culpa. Perspiciatis repudiandae consequatur ex perferendis placeat laborum necessitatibus quo excepturi iusto.",
+            "created_at": "17:32:15 - 11/11/2020",
+            "created_by": "hungnht",
+            "updated_at": "09:16:48 ngày 07/12/2020",
+            "updated_by": "hungnht"
+        }
+    ]
 }
