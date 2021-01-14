@@ -1,710 +1,148 @@
 {
-    "ho_so": {
-        "thong_tin": {
-            "full_name": "Nguyên Hồng Quân",
-            "mssv": "PH09166",
-            "gender": 0,
-            "date_of_birth": "28/07/1997",
-            "address": "Xóm 2, Xã Hải Phong, Huyện Hải Hậu, Tỉnh Nam Định"
-        },
-        "cmnd": {
-            "so": "163457636",
-            "ngay_cap": "2015-03-29",
-            "noi_cap": "Nam Định"
-        },
-        "hoc_tap": {
-            "account_id": "PH09166",
-            "khoa": "15.1",
-            "chuyen_nganh": "Thiết kế website",
-            "ngay_nhap_hoc": "06/11/2018"
-        },
-        "others": {
-            "van_bang_THPT": "000000000000"
-        }
-    },
-
-    "news_categories": [
-        {
-            "id": "1",
-            "name": "Thông tin học tập",
-            "status": true
-        },
-        {
-            "id": "2",
-            "name": "Thông tin hoạt động",
-            "status": true
-        },
-        {
-            "id": "3",
-            "name": "Thông tin học phí",
-            "status": true
-        }
-    ],
-
-    "news": [
-        {
-            "id": "1",
-            "news_categoryId": "1",
-            "title": "Thông báo DSSV đủ điều kiện làm Dự án tốt nghiệp kỳ SP21",
-            "created_at": "18:52:19 - 25/12/2020",
-            "created_by": "huongnt166",
-            "content": "Phòng Đào tạo thông báo DSSV đủ điều kiện làm dự án tốt nghiệp tại SP21 tại link dưới đây: https://docs.google.com/spreadsheets/d/1oEWkQ0tqPoUvk4YZPFqR3ILcP6weKdgHaf28a3nsYdk/edit#gid=0 Trong link này gồm có: Những sinh viên đủ điều kiện làm DATN đã hoàn thành học phí và chưa hoàn thành học phí (liên tục cập nhật) Những sinh viên phải học lại Dự án đã hoàn thành phí. Sinh viên lưu ý: Danh sách hoàn thành học phí sẽ được cập nhật liên tục cho đến hết ngày 28/12/2020. Phòng Đào tạo sẽ thông báo cách thức đăng ký qua tool làm dự án + Danh sách giảng viên hướng dẫn dự kiến vào thứ 3 ngày 29/12/2020. Sinh viên thường xuyên check email để nhận thông tin về việc làm dự án. Theo quy định mỗi nhóm dự án sẽ từ 4-7 thành viên, mỗi GV sẽ hướng dẫn không quá 7 nhóm. Với những sinh viên chưa có nhóm, Bộ môn và PĐT sẽ xếp nhóm cho các em. Hướng dẫn về việc đăng ký nhóm trên tool cũng sẽ được thông báo vào 29/12/2020. Những sinh viên không hoàn thành học phí sẽ không được làm dự án."
-        },
-        {
-            "id": "2",
-            "news_categoryId": "1",
-            "title": "Thông báo DSSV đủ điều kiện làm Dự án tốt nghiệp kỳ SP21",
-            "created_at": "18:52:19 - 25/12/2020",
-            "created_by": "huongnt166",
-            "content": "Phòng Đào tạo thông báo DSSV đủ điều kiện làm dự án tốt nghiệp tại SP21 tại link dưới đây: https://docs.google.com/spreadsheets/d/1oEWkQ0tqPoUvk4YZPFqR3ILcP6weKdgHaf28a3nsYdk/edit#gid=0 Trong link này gồm có: Những sinh viên đủ điều kiện làm DATN đã hoàn thành học phí và chưa hoàn thành học phí (liên tục cập nhật) Những sinh viên phải học lại Dự án đã hoàn thành phí. Sinh viên lưu ý: Danh sách hoàn thành học phí sẽ được cập nhật liên tục cho đến hết ngày 28/12/2020. Phòng Đào tạo sẽ thông báo cách thức đăng ký qua tool làm dự án + Danh sách giảng viên hướng dẫn dự kiến vào thứ 3 ngày 29/12/2020. Sinh viên thường xuyên check email để nhận thông tin về việc làm dự án. Theo quy định mỗi nhóm dự án sẽ từ 4-7 thành viên, mỗi GV sẽ hướng dẫn không quá 7 nhóm. Với những sinh viên chưa có nhóm, Bộ môn và PĐT sẽ xếp nhóm cho các em. Hướng dẫn về việc đăng ký nhóm trên tool cũng sẽ được thông báo vào 29/12/2020. Những sinh viên không hoàn thành học phí sẽ không được làm dự án."
-        },
-        {
-            "id": "3",
-            "news_categoryId": "1",
-            "title": "Thông báo DSSV đủ điều kiện làm Dự án tốt nghiệp kỳ SP21",
-            "created_at": "18:52:19 - 25/12/2020",
-            "created_by": "huongnt166",
-            "content": "Phòng Đào tạo thông báo DSSV đủ điều kiện làm dự án tốt nghiệp tại SP21 tại link dưới đây: https://docs.google.com/spreadsheets/d/1oEWkQ0tqPoUvk4YZPFqR3ILcP6weKdgHaf28a3nsYdk/edit#gid=0 Trong link này gồm có: Những sinh viên đủ điều kiện làm DATN đã hoàn thành học phí và chưa hoàn thành học phí (liên tục cập nhật) Những sinh viên phải học lại Dự án đã hoàn thành phí. Sinh viên lưu ý: Danh sách hoàn thành học phí sẽ được cập nhật liên tục cho đến hết ngày 28/12/2020. Phòng Đào tạo sẽ thông báo cách thức đăng ký qua tool làm dự án + Danh sách giảng viên hướng dẫn dự kiến vào thứ 3 ngày 29/12/2020. Sinh viên thường xuyên check email để nhận thông tin về việc làm dự án. Theo quy định mỗi nhóm dự án sẽ từ 4-7 thành viên, mỗi GV sẽ hướng dẫn không quá 7 nhóm. Với những sinh viên chưa có nhóm, Bộ môn và PĐT sẽ xếp nhóm cho các em. Hướng dẫn về việc đăng ký nhóm trên tool cũng sẽ được thông báo vào 29/12/2020. Những sinh viên không hoàn thành học phí sẽ không được làm dự án."
-        },
-        {
-            "id": "4",
-            "news_categoryId": "2",
-            "title": "Thông báo DSSV đủ điều kiện làm Dự án tốt nghiệp kỳ SP21",
-            "created_at": "18:52:19 - 25/12/2020",
-            "created_by": "huongnt166",
-            "content": "Phòng Đào tạo thông báo DSSV đủ điều kiện làm dự án tốt nghiệp tại SP21 tại link dưới đây: https://docs.google.com/spreadsheets/d/1oEWkQ0tqPoUvk4YZPFqR3ILcP6weKdgHaf28a3nsYdk/edit#gid=0 Trong link này gồm có: Những sinh viên đủ điều kiện làm DATN đã hoàn thành học phí và chưa hoàn thành học phí (liên tục cập nhật) Những sinh viên phải học lại Dự án đã hoàn thành phí. Sinh viên lưu ý: Danh sách hoàn thành học phí sẽ được cập nhật liên tục cho đến hết ngày 28/12/2020. Phòng Đào tạo sẽ thông báo cách thức đăng ký qua tool làm dự án + Danh sách giảng viên hướng dẫn dự kiến vào thứ 3 ngày 29/12/2020. Sinh viên thường xuyên check email để nhận thông tin về việc làm dự án. Theo quy định mỗi nhóm dự án sẽ từ 4-7 thành viên, mỗi GV sẽ hướng dẫn không quá 7 nhóm. Với những sinh viên chưa có nhóm, Bộ môn và PĐT sẽ xếp nhóm cho các em. Hướng dẫn về việc đăng ký nhóm trên tool cũng sẽ được thông báo vào 29/12/2020. Những sinh viên không hoàn thành học phí sẽ không được làm dự án."
-        },
-        {
-            "id": "5",
-            "news_categoryId": "2",
-            "title": "Thông báo DSSV đủ điều kiện làm Dự án tốt nghiệp kỳ SP21",
-            "created_at": "18:52:19 - 25/12/2020",
-            "created_by": "huongnt166",
-            "content": "Phòng Đào tạo thông báo DSSV đủ điều kiện làm dự án tốt nghiệp tại SP21 tại link dưới đây: https://docs.google.com/spreadsheets/d/1oEWkQ0tqPoUvk4YZPFqR3ILcP6weKdgHaf28a3nsYdk/edit#gid=0 Trong link này gồm có: Những sinh viên đủ điều kiện làm DATN đã hoàn thành học phí và chưa hoàn thành học phí (liên tục cập nhật) Những sinh viên phải học lại Dự án đã hoàn thành phí. Sinh viên lưu ý: Danh sách hoàn thành học phí sẽ được cập nhật liên tục cho đến hết ngày 28/12/2020. Phòng Đào tạo sẽ thông báo cách thức đăng ký qua tool làm dự án + Danh sách giảng viên hướng dẫn dự kiến vào thứ 3 ngày 29/12/2020. Sinh viên thường xuyên check email để nhận thông tin về việc làm dự án. Theo quy định mỗi nhóm dự án sẽ từ 4-7 thành viên, mỗi GV sẽ hướng dẫn không quá 7 nhóm. Với những sinh viên chưa có nhóm, Bộ môn và PĐT sẽ xếp nhóm cho các em. Hướng dẫn về việc đăng ký nhóm trên tool cũng sẽ được thông báo vào 29/12/2020. Những sinh viên không hoàn thành học phí sẽ không được làm dự án."
-        },
-        {
-            "id": "6",
-            "news_categoryId": "2",
-            "title": "Thông báo DSSV đủ điều kiện làm Dự án tốt nghiệp kỳ SP21",
-            "created_at": "18:52:19 - 25/12/2020",
-            "created_by": "huongnt166",
-            "content": "Phòng Đào tạo thông báo DSSV đủ điều kiện làm dự án tốt nghiệp tại SP21 tại link dưới đây: https://docs.google.com/spreadsheets/d/1oEWkQ0tqPoUvk4YZPFqR3ILcP6weKdgHaf28a3nsYdk/edit#gid=0 Trong link này gồm có: Những sinh viên đủ điều kiện làm DATN đã hoàn thành học phí và chưa hoàn thành học phí (liên tục cập nhật) Những sinh viên phải học lại Dự án đã hoàn thành phí. Sinh viên lưu ý: Danh sách hoàn thành học phí sẽ được cập nhật liên tục cho đến hết ngày 28/12/2020. Phòng Đào tạo sẽ thông báo cách thức đăng ký qua tool làm dự án + Danh sách giảng viên hướng dẫn dự kiến vào thứ 3 ngày 29/12/2020. Sinh viên thường xuyên check email để nhận thông tin về việc làm dự án. Theo quy định mỗi nhóm dự án sẽ từ 4-7 thành viên, mỗi GV sẽ hướng dẫn không quá 7 nhóm. Với những sinh viên chưa có nhóm, Bộ môn và PĐT sẽ xếp nhóm cho các em. Hướng dẫn về việc đăng ký nhóm trên tool cũng sẽ được thông báo vào 29/12/2020. Những sinh viên không hoàn thành học phí sẽ không được làm dự án."
-        },
-        {
-            "id": "7",
-            "news_categoryId": "3",
-            "title": "Thông báo DSSV đủ điều kiện làm Dự án tốt nghiệp kỳ SP21",
-            "created_at": "18:52:19 - 25/12/2020",
-            "created_by": "huongnt166",
-            "content": "Phòng Đào tạo thông báo DSSV đủ điều kiện làm dự án tốt nghiệp tại SP21 tại link dưới đây: https://docs.google.com/spreadsheets/d/1oEWkQ0tqPoUvk4YZPFqR3ILcP6weKdgHaf28a3nsYdk/edit#gid=0 Trong link này gồm có: Những sinh viên đủ điều kiện làm DATN đã hoàn thành học phí và chưa hoàn thành học phí (liên tục cập nhật) Những sinh viên phải học lại Dự án đã hoàn thành phí. Sinh viên lưu ý: Danh sách hoàn thành học phí sẽ được cập nhật liên tục cho đến hết ngày 28/12/2020. Phòng Đào tạo sẽ thông báo cách thức đăng ký qua tool làm dự án + Danh sách giảng viên hướng dẫn dự kiến vào thứ 3 ngày 29/12/2020. Sinh viên thường xuyên check email để nhận thông tin về việc làm dự án. Theo quy định mỗi nhóm dự án sẽ từ 4-7 thành viên, mỗi GV sẽ hướng dẫn không quá 7 nhóm. Với những sinh viên chưa có nhóm, Bộ môn và PĐT sẽ xếp nhóm cho các em. Hướng dẫn về việc đăng ký nhóm trên tool cũng sẽ được thông báo vào 29/12/2020. Những sinh viên không hoàn thành học phí sẽ không được làm dự án."
-        },
-        {
-            "id": "8",
-            "news_categoryId": "3",
-            "title": "Thông báo DSSV đủ điều kiện làm Dự án tốt nghiệp kỳ SP21",
-            "created_at": "18:52:19 - 25/12/2020",
-            "created_by": "huongnt166",
-            "content": "Phòng Đào tạo thông báo DSSV đủ điều kiện làm dự án tốt nghiệp tại SP21 tại link dưới đây: https://docs.google.com/spreadsheets/d/1oEWkQ0tqPoUvk4YZPFqR3ILcP6weKdgHaf28a3nsYdk/edit#gid=0 Trong link này gồm có: Những sinh viên đủ điều kiện làm DATN đã hoàn thành học phí và chưa hoàn thành học phí (liên tục cập nhật) Những sinh viên phải học lại Dự án đã hoàn thành phí. Sinh viên lưu ý: Danh sách hoàn thành học phí sẽ được cập nhật liên tục cho đến hết ngày 28/12/2020. Phòng Đào tạo sẽ thông báo cách thức đăng ký qua tool làm dự án + Danh sách giảng viên hướng dẫn dự kiến vào thứ 3 ngày 29/12/2020. Sinh viên thường xuyên check email để nhận thông tin về việc làm dự án. Theo quy định mỗi nhóm dự án sẽ từ 4-7 thành viên, mỗi GV sẽ hướng dẫn không quá 7 nhóm. Với những sinh viên chưa có nhóm, Bộ môn và PĐT sẽ xếp nhóm cho các em. Hướng dẫn về việc đăng ký nhóm trên tool cũng sẽ được thông báo vào 29/12/2020. Những sinh viên không hoàn thành học phí sẽ không được làm dự án."
-        },
-        {
-            "id": "9",
-            "news_categoryId": "3",
-            "title": "Thông báo DSSV đủ điều kiện làm Dự án tốt nghiệp kỳ SP21",
-            "created_at": "18:52:19 - 25/12/2020",
-            "created_by": "huongnt166",
-            "content": "Phòng Đào tạo thông báo DSSV đủ điều kiện làm dự án tốt nghiệp tại SP21 tại link dưới đây: https://docs.google.com/spreadsheets/d/1oEWkQ0tqPoUvk4YZPFqR3ILcP6weKdgHaf28a3nsYdk/edit#gid=0 Trong link này gồm có: Những sinh viên đủ điều kiện làm DATN đã hoàn thành học phí và chưa hoàn thành học phí (liên tục cập nhật) Những sinh viên phải học lại Dự án đã hoàn thành phí. Sinh viên lưu ý: Danh sách hoàn thành học phí sẽ được cập nhật liên tục cho đến hết ngày 28/12/2020. Phòng Đào tạo sẽ thông báo cách thức đăng ký qua tool làm dự án + Danh sách giảng viên hướng dẫn dự kiến vào thứ 3 ngày 29/12/2020. Sinh viên thường xuyên check email để nhận thông tin về việc làm dự án. Theo quy định mỗi nhóm dự án sẽ từ 4-7 thành viên, mỗi GV sẽ hướng dẫn không quá 7 nhóm. Với những sinh viên chưa có nhóm, Bộ môn và PĐT sẽ xếp nhóm cho các em. Hướng dẫn về việc đăng ký nhóm trên tool cũng sẽ được thông báo vào 29/12/2020. Những sinh viên không hoàn thành học phí sẽ không được làm dự án."
-        }
-    ],
-
-    "subjects": [
-        {
-            "id": "1",
-            "ten_mon_hoc": "Khởi sự doanh nghiệp",
-            "ma_mon_hoc": "SYB301",
-            "ma_giang_vien": "hanq9",
-            "ma_lop": "PT15111-WEB",
-            "ky_hoc": "FALL 2020",
-            "giang_duong": "TVB"
-        },
-        {
-            "id": "2",
-            "ten_mon_hoc": "Front-End Frameworks",
-            "ma_mon_hoc": "WEB207",
-            "ma_giang_vien": "datlt34",
-            "ma_lop": "PT15202-UD",
-            "ky_hoc": "FALL 2020",
-            "giang_duong": "TVB"
-        }
-    ],
-
-    "lich_hoc": [
-        {
-            "id": "1",
-            "subjectId": "1",
-            "ngay": 1608955267,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "2",
-            "subjectId": "2",
-            "ngay": 1608955207,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "3",
-            "subjectId": "1",
-            "ngay": 1608955147,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "4",
-            "subjectId": "2",
-            "ngay": 1608955087,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "5",
-            "subjectId": "1",
-            "ngay": 1608955027,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "6",
-            "subjectId": "2",
-            "ngay": 1608954967,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "7",
-            "subjectId": "1",
-            "ngay": 1608954907,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "8",
-            "subjectId": "2",
-            "ngay": 1608954847,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "9",
-            "subjectId": "1",
-            "ngay": 1608954787,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "10",
-            "subjectId": "2",
-            "ngay": 1608954727,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "11",
-            "subjectId": "1",
-            "ngay": 1608954667,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "12",
-            "subjectId": "2",
-            "ngay": 1608954607,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "13",
-            "subjectId": "1",
-            "ngay": 1608954547,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "14",
-            "subjectId": "2",
-            "ngay": 1608954487,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "15",
-            "subjectId": "1",
-            "ngay": 1608954427,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "16",
-            "subjectId": "2",
-            "ngay": 1608954367,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "17",
-            "subjectId": "1",
-            "ngay": 1608954307,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "18",
-            "subjectId": "2",
-            "ngay": 1608954247,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "19",
-            "subjectId": "1",
-            "ngay": 1608954187,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "20",
-            "subjectId": "2",
-            "ngay": 1608954127,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "21",
-            "subjectId": "1",
-            "ngay": 1608954067,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "22",
-            "subjectId": "2",
-            "ngay": 1608954007,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        }
-    ],
-
-    "lich_thi": [
-        {
-            "id": "1",
-            "subjectId": "1",
-            "ngay": 1608955620,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "2",
-            "subjectId": "2",
-            "ngay": 1608955560,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "3",
-            "subjectId": "1",
-            "ngay": 1608955500,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "4",
-            "subjectId": "2",
-            "ngay": 1608955440,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "5",
-            "subjectId": "1",
-            "ngay": 1608955380,
-            "phong": "L203",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        },
-        {
-            "id": "6",
-            "subjectId": "2",
-            "ngay": 1608955320,
-            "phong": "P305",
-            "ca_hoc": 4,
-            "thoi_gian": "14:10:00 - 16:10:00"
-        }
-    ],
-
-    "diem_danh": [
-        {
-            "id": "1",
-            "subjectId": "1",
-            "ngay": 1608957174,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "2",
-            "subjectId": "2",
-            "ngay": 1608957114,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "3",
-            "subjectId": "1",
-            "ngay": 1608957054,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "4",
-            "subjectId": "2",
-            "ngay": 1608956994,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "5",
-            "subjectId": "1",
-            "ngay": 1608956934,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "6",
-            "subjectId": "2",
-            "ngay": 1608956874,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "7",
-            "subjectId": "1",
-            "ngay": 1608956814,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "8",
-            "subjectId": "2",
-            "ngay": 1608956754,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "9",
-            "subjectId": "1",
-            "ngay": 1608956694,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "10",
-            "subjectId": "2",
-            "ngay": 1608956634,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "11",
-            "subjectId": "1",
-            "ngay": 1608956574,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "12",
-            "subjectId": "2",
-            "ngay": 1608956514,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "13",
-            "subjectId": "1",
-            "ngay": 1608956454,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "14",
-            "subjectId": "2",
-            "ngay": 1608956394,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "15",
-            "subjectId": "1",
-            "ngay": 1608956334,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "16",
-            "subjectId": "2",
-            "ngay": 1608956274,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "17",
-            "subjectId": "1",
-            "ngay": 1608956214,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "18",
-            "subjectId": "2",
-            "ngay": 1608956154,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "19",
-            "subjectId": "1",
-            "ngay": 1608956094,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "20",
-            "subjectId": "2",
-            "ngay": 1608956034,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "21",
-            "subjectId": "1",
-            "ngay": 1608955974,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "22",
-            "subjectId": "2",
-            "ngay": 1608955914,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "23",
-            "subjectId": "1",
-            "ngay": 1608955854,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "24",
-            "subjectId": "2",
-            "ngay": 1608955794,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "25",
-            "subjectId": "1",
-            "ngay": 1608955734,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "26",
-            "subjectId": "2",
-            "ngay": 1608955674,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "27",
-            "subjectId": "1",
-            "ngay": 1608955614,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "28",
-            "subjectId": "2",
-            "ngay": 1608955554,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "29",
-            "subjectId": "1",
-            "ngay": 1608955494,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "hanq9",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        },
-        {
-            "id": "30",
-            "subjectId": "2",
-            "ngay": 1608955434,
-            "ca_hoc": 4,
-            "nguoi_diem_danh": "datlt34",
-            "mo_ta": "Lý Thuyết",
-            "status": 1,
-            "note": ""
-        }
-    ],
-
-    "hoc_ky": [
-        {
-            "id": "1",
-            "so_ky": "1",
-            "ten_hoc_ky": "Spring 2019"
-        },
-        {
-            "id": "2",
-            "so_ky": "2",
-            "ten_hoc_ky": "Summner 2019"
-        },
-        {
-            "id": "3",
-            "so_ky": "3",
-            "ten_hoc_ky": "Fall 2019"
-        },
-        {
-            "id": "4",
-            "so_ky": "4",
-            "ten_hoc_ky": "Spring 2020"
-        },
-        {
-            "id": "5",
-            "so_ky": "5",
-            "ten_hoc_ky": "Summer 2020"
-        },
-        {
-            "id": "6",
-            "so_ky": "6",
-            "ten_hoc_ky": "Fall 2020"
-        },
-        {
-            "id": "7",
-            "so_ky": "7",
-            "ten_hoc_ky": "Spring 2021"
+    "gardens": [
+        {
+            "id": 1,
+            "name": "Vườn phong lan siêu cấp vip pro",
+            "address": "Hải phong, hải hậu, nam định",
+            "acreage": 100,
+            "desc": "I'll input the digital COM matrix, that should bus the HTTP feed!",
+            "current_mode": 2,
+            "parameters": { "nhiet_do": 21, "do_am": 50, "do_ph": 4 },
+            "manual_setting": {
+                "phun_suong": {
+                    "short_desc": "I'll hack the virtual RAM port, that should matrix the RAM feed!",
+                    "isActive": false,
+                    "timer": null
+                },
+                "man_che": {
+                    "short_desc": "If we copy the bandwidth, we can get to the RAM circuit through the open-source XML protocol!",
+                    "isActive": false,
+                    "timer": -1
+                },
+                "quat_cong_nghiep": {
+                    "short_desc": "You can't parse the pixel without backing up the online HDD monitor!",
+                    "isActive": false,
+                    "timer": null
+                },
+                "den_suoi": {
+                    "short_desc": "The TCP driver is down, generate the haptic hard drive so we can bypass the XSS sensor!",
+                    "isActive": false,
+                    "timer": null
+                }
+            },
+            "auto_spec_setting": {
+                "nhiet_do": {
+                    "min": 40,
+                    "max": 60
+                },
+                "do_am": {
+                    "min": 50,
+                    "max": 80
+                },
+                "do_ph": {
+                    "min": 4,
+                    "max": 7
+                }
+            },
+            "auto_time_setting": {
+                "phun_suong": {
+                    "short_desc": "I'll hack the virtual RAM port, that should matrix the RAM feed!",
+                    "isActive": false,
+                    "start_time": null,
+                    "end_time": null
+                },
+                "man_che": {
+                    "short_desc": "If we copy the bandwidth, we can get to the RAM circuit through the open-source XML protocol!",
+                    "isActive": false,
+                    "start_time": null,
+                    "end_time": null
+                },
+                "quat_cong_nghiep": {
+                    "short_desc": "You can't parse the pixel without backing up the online HDD monitor!",
+                    "isActive": false,
+                    "start_time": null,
+                    "end_time": null
+                },
+                "den_suoi": {
+                    "short_desc": "The TCP driver is down, generate the haptic hard drive so we can bypass the XSS sensor!",
+                    "isActive": false,
+                    "start_time": null,
+                    "end_time": null
+                },
+                "time_table": [2, 3, 4]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Vườn phong lan siêu cấp vip pro",
+            "address": "Hải phong, hải hậu, nam định",
+            "acreage": 100,
+            "desc": "I'll input the digital COM matrix, that should bus the HTTP feed!",
+            "current_mode": 2,
+            "parameters": { "nhiet_do": 21, "do_am": 50, "do_ph": 4 },
+            "manual_setting": {
+                "phun_suong": {
+                    "short_desc": "I'll hack the virtual RAM port, that should matrix the RAM feed!",
+                    "isActive": false,
+                    "timer": null
+                },
+                "man_che": {
+                    "short_desc": "If we copy the bandwidth, we can get to the RAM circuit through the open-source XML protocol!",
+                    "isActive": false,
+                    "timer": -1
+                },
+                "quat_cong_nghiep": {
+                    "short_desc": "You can't parse the pixel without backing up the online HDD monitor!",
+                    "isActive": false,
+                    "timer": null
+                },
+                "den_suoi": {
+                    "short_desc": "The TCP driver is down, generate the haptic hard drive so we can bypass the XSS sensor!",
+                    "isActive": false,
+                    "timer": null
+                }
+            },
+            "auto_spec_setting": {
+                "nhiet_do": {
+                    "min": 40,
+                    "max": 60
+                },
+                "do_am": {
+                    "min": 50,
+                    "max": 80
+                },
+                "do_ph": {
+                    "min": 4,
+                    "max": 7
+                }
+            },
+            "auto_time_setting": {
+                "phun_suong": {
+                    "short_desc": "I'll hack the virtual RAM port, that should matrix the RAM feed!",
+                    "isActive": false,
+                    "start_time": null,
+                    "end_time": null
+                },
+                "man_che": {
+                    "short_desc": "If we copy the bandwidth, we can get to the RAM circuit through the open-source XML protocol!",
+                    "isActive": false,
+                    "start_time": null,
+                    "end_time": null
+                },
+                "quat_cong_nghiep": {
+                    "short_desc": "You can't parse the pixel without backing up the online HDD monitor!",
+                    "isActive": false,
+                    "start_time": null,
+                    "end_time": null
+                },
+                "den_suoi": {
+                    "short_desc": "The TCP driver is down, generate the haptic hard drive so we can bypass the XSS sensor!",
+                    "isActive": false,
+                    "start_time": null,
+                    "end_time": null
+                },
+                "time_table": [2, 3, 4]
+            }
         }
     ]
 }
